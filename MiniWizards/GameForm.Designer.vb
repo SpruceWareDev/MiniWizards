@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class Form1
+Partial Class GameForm
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -24,12 +24,12 @@ Partial Class Form1
     Private Sub InitializeComponent()
         SuspendLayout()
         ' 
-        ' Form1
+        ' GameForm
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
-        Name = "Form1"
+        Name = "GameForm"
         Text = "Form1"
         ResumeLayout(False)
     End Sub
